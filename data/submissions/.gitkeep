@@ -1,0 +1,5 @@
+# Pending community contributions (moderation queue)
+/data/submissions/*
+!/data/submissions/.gitkeep
+/public/uploads/pending/*
+!/public/uploads/pending/.gitkeep
