@@ -2,6 +2,11 @@
 
 Site interativo para explorar São Leopoldo/RS no tempo: mapa híbrido, pins por endereço, décadas com fotos, contribuições da comunidade e página de patrocínios.
 
+## Repositório
+
+- **Local (oficial):** `C:\Projetos\Site Historia São Leopoldo`
+- **GitHub:** https://github.com/BlackLotusDegen/historia-sao-leopoldo
+
 ## Desenvolvimento
 
 ```bash
